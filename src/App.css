@@ -1,0 +1,16 @@
+/* Place your extensions here to make migration to a new release easier.
+
+
+
+style={{width: '50vw', color: 'red'}}
+*/
+
+.appTopbarDialog{
+    background-color: #a82518;
+    width: 1000px;
+    height: 200px;
+}
+
+.appFooterTopbarDialog{
+    background-color: #a82518;
+}

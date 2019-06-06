@@ -1,0 +1,16 @@
+#mainHeader{
+    text-align: center;
+}
+
+.authMessage{
+    text-align: right;
+}
+
+.p-float-label {
+    display: block;
+    position:relative;
+}
+
+.saveButton{
+
+}
